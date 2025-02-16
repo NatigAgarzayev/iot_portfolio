@@ -13,8 +13,8 @@
 
 Domains and included areas:
 
-- Smart home devices (lights, security systems)
-- Wearables (smartwatch, fitness tracker watch)
+- Home automation (lights, security systems)
+- Wearable Computing (smartwatch, fitness tracker watch)
 - Smart cities (waste management systems)
 
 
