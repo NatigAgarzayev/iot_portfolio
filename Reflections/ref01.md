@@ -12,6 +12,6 @@
 - How was your interaction with peers/instructors?
   * Collaborated with peers on troubleshooting
 - Help and extra work
-  - Who helped you, gave feedback, was it valuable?
-  - Who did you help, gave feedback to?
-  - Did you present, implement, made a PR, or fix something that was crucial for the class in itself?
+  - Who helped you, gave feedback, was it valuable? Yes
+  - Who did you help, gave feedback to? Nobody asked help
+  - Did you present, implement, made a PR, or fix something that was crucial for the class in itself? Don't think so
