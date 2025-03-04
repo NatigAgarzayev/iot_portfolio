@@ -114,7 +114,7 @@
   ![Lights_on](../Module2/Pictures/02-lightson.jpg) \
   ![Lights_off](../Module2/Pictures/02-lightsoff.jpg) \
   ![Code](../Module2/Pictures/02-code.jpg) \
-  ![Video](../Module2/Pictures/02-video.mp4)
+  [Video](../Module2/Pictures/02-video.mp4)
   
 - Which IDE do you prefer working with? Why?
   I use VSCode (it is not an IDE) everywhere where it fits. It is lightweight, functional, easy to setup, easy to make IDE from text redactor.
@@ -134,5 +134,5 @@
 
 
 ## Reflections
-![Reflection 2](../Reflections/ref02.md) \
-![Reflection 3](../Reflections/ref03.md)
+[Reflection 2](../Reflections/ref02.md) \
+[Reflection 3](../Reflections/ref03.md)
