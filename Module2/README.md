@@ -2,7 +2,7 @@
 
 ## week 2
 - My kit contains: \
-    [My kit photo](../Module1/Pictures/02-kit_upper.jpg) \
+    ![My kit photo](../Module1/Pictures/02-kit_upper.jpg) \
     Red packet: 3 LED, 1 capacitor, 4 resistors, 2 swtichers \
     1 AC/DC adaptor \
     1 breadboard \
@@ -47,15 +47,15 @@
   If your project involves multiple analog sensors, the single analog input of the WeMos D1 Mini could be a limitation
 
 - Mini Project: LED-button \
-[Calculations](../Module1/Pictures/02-calculations.jpg) \
-[What we built](../Module1/Pictures/02-mini_project.jpg) \
-[Connecting LEDs in parallel](../Module1/Pictures/02-parallel_connection.jpg) \
-[Connecting LEDs in series](../Module1/Pictures/02-series_connection.jpg)
+![Calculations](../Module1/Pictures/02-calculations.jpg) \
+![What we built](../Module1/Pictures/02-mini_project.jpg) \
+![Connecting LEDs in parallel](../Module1/Pictures/02-parallel_connection.jpg) \
+![Connecting LEDs in series](../Module1/Pictures/02-series_connection.jpg)
 
 
 - Mini Project: Relay-Lock-Button \
-[Relay before](../Module1/Pictures/02-relay_project.jpg) \
-[Relay after](../Module1/Pictures/02-last_project.jpg)
+![Relay before](../Module1/Pictures/02-relay_project.jpg) \
+![Relay after](../Module1/Pictures/02-last_project.jpg)
 
 - Normally open normally closed?
   It depends on where you connect cable. 
@@ -65,7 +65,7 @@
 ## week 3
 
 - I got kit to go: \
-    [My kit photo](../Module1/Pictures/02-kit_upper.jpg) \
+    ![My kit photo](../Module1/Pictures/02-kit_upper.jpg) \
     Red packet: 2 LED, 1 capacitor, 3 resistors, 2 swtichers \
     1 AC/DC adaptor \
     1 breadboard \
@@ -106,15 +106,15 @@
     The onboard LED is inverted, meaning LOW turns it on, and HIGH turns it off.
   
   Photos from the first mini project: \
-  [Lights_on](../Module2/Pictures/01-lights_on.jpg) \
-  [Lights_off](../Module2/Pictures/01-lights_off.jpg) \
-  [Code](../Module2/Pictures/01-code.jpg)
+  ![Lights_on](../Module2/Pictures/01-lights_on.jpg) \
+  ![Lights_off](../Module2/Pictures/01-lights_off.jpg) \
+  ![Code](../Module2/Pictures/01-code.jpg)
 
   Photos from smooth light on and off: \
-  [Lights_on](../Module2/Pictures/02-lightson.jpg) \
-  [Lights_off](../Module2/Pictures/02-lightsoff.jpg) \
-  [Code](../Module2/Pictures/02-code.jpg) \
-  [Video](../Module2/Pictures/02-video.mp4)
+  ![Lights_on](../Module2/Pictures/02-lightson.jpg) \
+  ![Lights_off](../Module2/Pictures/02-lightsoff.jpg) \
+  ![Code](../Module2/Pictures/02-code.jpg) \
+  ![Video](../Module2/Pictures/02-video.mp4)
   
 - Which IDE do you prefer working with? Why?
   I use VSCode (it is not an IDE) everywhere where it fits. It is lightweight, functional, easy to setup, easy to make IDE from text redactor.
@@ -122,17 +122,17 @@
 - Photos from mpr121 mini project: \
   Lime test: \
   ![Lime test](../Module2/Pictures/mpr121-lemon.jpg) \
-  [Lime test output](../Module2/Pictures/mpr121-lemon-out.jpg) \
+  ![Lime test output](../Module2/Pictures/mpr121-lemon-out.jpg) \
   Water test: \
-  [Water test](../Module2/Pictures/mpr121-water.jpg) \
-  [Water test output](../Module2/Pictures/mpr121-water-out.jpg) \
+  ![Water test](../Module2/Pictures/mpr121-water.jpg) \
+  ![Water test output](../Module2/Pictures/mpr121-water-out.jpg) \
   Metal test: \
-  [Metal test](../Module2/Pictures/mpr121-metal.jpg) \
-  [Metal test output](../Module2/Pictures/mpr121-metal-out.jpg) \
+  ![Metal test](../Module2/Pictures/mpr121-metal.jpg) \
+  ![Metal test output](../Module2/Pictures/mpr121-metal-out.jpg) \
   Program code: \
-  [MPR121 code](../Module2/Pictures/mpr121-code.jpg)
+  ![MPR121 code](../Module2/Pictures/mpr121-code.jpg)
 
 
 ## Reflections
-[Reflection 2](../Reflections/ref02.md) \
-[Reflection 3](../Reflections/ref03.md)
+![Reflection 2](../Reflections/ref02.md) \
+![Reflection 3](../Reflections/ref03.md)
