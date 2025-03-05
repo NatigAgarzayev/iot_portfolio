@@ -1,4 +1,4 @@
-# Reflection 1 in Module 1
+# Reflection 1
 
 - What is your take-away, what do you want to remember, what would be your advice?
   * Hands-on experience is crucial for understanding real-world challenges.

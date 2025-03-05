@@ -1,4 +1,4 @@
-# Reflection 3 in Module 2
+# Reflection 3
 
 - What is your take-away, what do you want to remember, what would be your advice?
   It's was really interesting programming devices. Make less mini projects because we usually don't have time to complete them in active class. 

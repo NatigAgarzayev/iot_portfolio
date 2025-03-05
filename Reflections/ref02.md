@@ -1,4 +1,4 @@
-# Reflection 2 in Module 1
+# Reflection 2
 
 - What is your take-away, what do you want to remember, what would be your advice?
   It's not so easy as I expected. At first I did not understand how elements interact with each other, but close to the end of the session it became more clear. 
