@@ -50,4 +50,6 @@ If set up correctly, you’ll see **"Hello, IoT!"** in the subscriber terminal.
 ### 🎉 Step 6: Enjoy Your IoT Network!
 Your IoT devices are now communicating using **MQTT**. You can automate tasks, control devices, and integrate dashboards like **Home Assistant** or **Node-RED** for a smarter setup.
 
-Happy tinkering! 🚀🤖
+
+## Reflection
+[Reflection 5](../Reflections/ref05.md)
