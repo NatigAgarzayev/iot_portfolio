@@ -1,6 +1,6 @@
 # Module 3
 
-## 📡 Set Up Your IoT Network with MQTT on a Router
+## MINI PROJECT: 📡 Set Up Your IoT Network with MQTT on a Router
 
 ### 🚀 Step 1: Check Your Router
 - Ensure your router supports **MQTT** (or install custom firmware like OpenWRT, DD-WRT).
@@ -50,6 +50,16 @@ If set up correctly, you’ll see **"Hello, IoT!"** in the subscriber terminal.
 ### 🎉 Step 6: Enjoy Your IoT Network!
 Your IoT devices are now communicating using **MQTT**. You can automate tasks, control devices, and integrate dashboards like **Home Assistant** or **Node-RED** for a smarter setup.
 
+
+## MINI PROJECT: IoTempower networking \
+![Netowork setup](./Pictures/01-setup.jpg) \
+![Changed name](./Pictures/01-changed-name.jpg) \
+![Connect to the network](./Pictures/01-connected.jpg) \
+![Ping the network](./Pictures/01-ping.jpg) \
+![System configuration](./Pictures/01-system-conf.jpg) \
+
+## MINI PROJECT: remote access to the gateway \
+![Network](./Pictures/04-netbird.png)
 
 ## Reflection
 [Reflection 5](../Reflections/ref05.md)
