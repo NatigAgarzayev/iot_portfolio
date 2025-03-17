@@ -51,15 +51,16 @@ If set up correctly, you’ll see **"Hello, IoT!"** in the subscriber terminal.
 Your IoT devices are now communicating using **MQTT**. You can automate tasks, control devices, and integrate dashboards like **Home Assistant** or **Node-RED** for a smarter setup.
 
 
-## MINI PROJECT: IoTempower networking \
+## MINI PROJECT: IoTempower networking
 ![Netowork setup](./Pictures/01-setup.jpg) \
 ![Changed name](./Pictures/01-changed-name.jpg) \
 ![Connect to the network](./Pictures/01-connected.jpg) \
 ![Ping the network](./Pictures/01-ping.jpg) \
-![System configuration](./Pictures/01-system-conf.jpg) \
+![System configuration](./Pictures/01-system-conf.jpg) 
 
-## MINI PROJECT: remote access to the gateway \
+## MINI PROJECT: remote access to the gateway 
 ![Network](./Pictures/04-netbird.png)
 
 ## Reflection
+[Reflection 4](../Reflections/ref04.md)
 [Reflection 5](../Reflections/ref05.md)
