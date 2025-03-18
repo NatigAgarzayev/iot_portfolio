@@ -59,7 +59,8 @@ Your IoT devices are now communicating using **MQTT**. You can automate tasks, c
 ![System configuration](./Pictures/01-system-conf.jpg) 
 
 ## MINI PROJECT: remote access to the gateway 
-![Network](./Pictures/04-netbird.png)
+![Network](./Pictures/04-netbird.png) \
+![Connected](./Pictures/04-connected.jpg)
 
 ## Reflection
 [Reflection 4](../Reflections/ref04.md)
