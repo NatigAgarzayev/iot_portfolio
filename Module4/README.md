@@ -3,10 +3,10 @@
 
 ## Demos: Broken code.
 ### Null pointer segmentation fault
-![Null pointer segmentation fault](./Pictures/demos-1.mp4)
+[Null pointer segmentation fault](./Pictures/demos-1.mp4)
 ### Memory overflow 
 ![Memory overflow photo](./Pictures/demos-2.jpg) \
-![Memory overflow video](./Pictures/demos-2.mp4)
+[Memory overflow video](./Pictures/demos-2.mp4)
 ### Multitasking - interrupts and WiFi 
 ![Interrupts](./Pictures/demos-3.mp4)
 
@@ -22,3 +22,8 @@
 ![Node red structure](./Pictures/final-2.jpg) \
 ![Debug in Node red](./Pictures/final-3.jpg) \
 ![Getting message by subscribing using mosquitto_sub](./Pictures/final-4.jpg) 
+
+## Reflection
+[Reflection 6](../Reflections/ref06.md)
+[Reflection 7](../Reflections/ref07.md)
+[Reflection 8](../Reflections/ref08.md)
